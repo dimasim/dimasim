@@ -11,7 +11,7 @@
 
 #### 1. [Politeknik Negeri Semarang](https://web.polines.ac.id/en_us/) | Collage Student of Computer Engineering Technology | Semarang `2022-Now`
    - Bachelor Degree in Computer Science Engineering, 3.59/4.00
- #### 2. [SMKN 7 Semarang] (https://smkn7semarang.sch.id/) | SIJA | Semarang `2018-2022`
+ #### 2. [SMKN 7 Semarang](https://smkn7semarang.sch.id/) | SIJA | Semarang `2018-2022`
    - Graduated from high school in 2022
  #### 3. [SMPN 19 Semarang](https://www.smpn19.semarangkota.go.id/)  | Semarang `2015-2018`
    - Graduated from high school in 2019
