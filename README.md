@@ -1,53 +1,65 @@
-# Hi there, I'm  Dimas - aka [dimasim](https://www.instagram.com/__dimasim) 👋
-## About me:
-- 🔭 I’m currently a student at Politeknik Negeri Semarang Electrical Engineering majoring in Computer Engineering Technology.
-- 🌱 I’m currently learning C++, C#, PHP, Mysql, Python, and Dart
-- 👯 I’m looking to collaborate as Web Development
-- 🤔 I’m looking for Information and Communication Technology Internsip Partner
-- 💬 Ask me about anything
-- 📫 How to reach me: officialdimasim@gmail.com
+# Hi there, I'm Dimas (aka [dimasim](https://github.com/dimasim)) 👋
 
-## Education:
-
-#### 1. [Politeknik Negeri Semarang](https://web.polines.ac.id/en_us/) | Collage Student of Computer Engineering Technology | Semarang `2022-Now`
-   - Bachelor Degree in Computer Science Engineering, 3.59/4.00
- #### 2. [SMKN 7 Semarang](https://smkn7semarang.sch.id/) | SIJA | Semarang `2018-2022`
-   - Graduated from high school in 2022
- #### 3. [SMPN 19 Semarang](https://www.smpn19.semarangkota.go.id/)  | Semarang `2015-2018`
-   - Graduated from high school in 2019
-   
-
-
-
-### Top Languages
-[![Dimas's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=dimasim&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/dimasim)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimasim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-##
-
-
-### Languages and Tools:
-
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="C#" width="30px" src="https://static-00.iconduck.com/assets.00/csharp-icon-1755x2048-5r3ugs1f.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Dart" width="90px" src="https://dart.dev/assets/img/logo/logo-white-text.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/330px-PHP-logo.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Java" width="50px" src="https://wp.logos-download.com/wp-content/uploads/2016/10/Java_logo_icon-700x392.png" style="padding-right:10px;" />][webdev]
-
-<br />
-<br />
+## ⚡ About Me
+- 🔭 I’m currently a student at **Politeknik Negeri Semarang**, Electrical Engineering majoring in **Computer Engineering Technology**.
+- 🌱 I’m currently learning **C++, C#, PHP, MySQL, Python, and Dart**.
+- 👯 I’m looking to collaborate on **Web Development** projects.
+- 🤔 I’m looking for an **Information and Communication Technology Internship Partner**.
+- 💬 Ask me about anything!
+- 📫 How to reach me: [officialdimasim@gmail.com](mailto:officialdimasim@gmail.com)
 
 ---
 
-### Connect with me:
-<div> 
-  <a href="http://www.youtube.com/@ilhammuhammadarif8214" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ilham-muhammad-arif-751252369" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🎓 Education
 
- ##
+#### 1. [Politeknik Negeri Semarang](https://web.polines.ac.id/en_us/) | College Student of Computer Engineering Technology | Semarang `2022 - Present`
+- Associate/Bachelor Degree in Computer Engineering Technology, **GPA: 3.59/4.00**
 
+#### 2. [SMKN 7 Semarang](https://smkn7semarang.sch.id/) | SIJA (Sistem Informatika, Jaringan, dan Aplikasi) | Semarang `2018 - 2022`
+- Graduated in 2022
 
-[webdev]: https://github.com/imarif28/imarif28/
+#### 3. [SMPN 19 Semarang](https://www.smpn19.semarangkota.go.id/) | Semarang `2015 - 2018`
+- Graduated from Junior High School in 2018
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/dimasim">
+    <img src="https://github-readme-stats.vercel.app/api?username=dimasim&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Dimas's GitHub Stats" height="180px" />
+  </a>
+  <a href="https://github.com/dimasim">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasim&layout=compact&theme=dark" alt="Top Languages" height="180px" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.instagram.com/__dimasim" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://youtube.com/@YOUR_YOUTUBE_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
