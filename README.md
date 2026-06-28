@@ -56,7 +56,7 @@
   <a href="https://www.instagram.com/__dimasim" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/dimas-irsyad-maulana-b551361a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://youtube.com/@YOUR_YOUTUBE_HANDLE" target="_blank">
