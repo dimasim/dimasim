@@ -1,54 +1,95 @@
-# Hi there, I'm Dimas (aka [dimasim](https://github.com/dimasim)) 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20There!%20I'm%20Dimas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20dimasim%20|%20Computer%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://github.com/dimasim">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Technology+Student;Aspiring+Full-Stack+Web+Developer;Always+Learning+Something+New;Open+for+ICT+Internship+Opportunities!&font=Fira+Code&center=true&width=550&height=50&color=8B5CF6&vCenter=true&size=22"/>
+</a>
+
+</div>
+
+<br/>
 
 ## ⚡ About Me
-- 🔭 I’m currently a student at **Politeknik Negeri Semarang**, Electrical Engineering majoring in **Computer Engineering Technology**.
-- 🌱 I’m currently learning **C++, C#, PHP, MySQL, Python, and Dart**.
-- 👯 I’m looking to collaborate on **Web Development** projects.
-- 🤔 I’m looking for an **Information and Communication Technology Internship Partner**.
-- 💬 Ask me about anything!
-- 📫 How to reach me: [officialdimasim@gmail.com](mailto:officialdimasim@gmail.com)
 
----
+```yaml
+name: Dimas Irsyad Maulana
+alias: dimasim
+location: Semarang, Indonesia
+education: Politeknik Negeri Semarang — Computer Engineering Technology
+currently_learning: [C++, C#, PHP, MySQL, Python, Dart]
+looking_to_collaborate_on: Web Development projects
+looking_for: ICT Internship Partner
+fun_fact: I debug with print() and I'm not ashamed
+```
+
+- 🔭 Currently studying **Computer Engineering Technology** at **Politeknik Negeri Semarang**
+- 🌱 Currently leveling up in **C++, C#, PHP, MySQL, Python & Dart**
+- 👯 Open to collaborate on **Web Development** projects
+- 🤝 Actively seeking an **ICT Internship Partner**
+- 💬 Ask me about anything — web dev, electronics, or college life
+- 📫 Reach me at **[officialdimasim@gmail.com](mailto:officialdimasim@gmail.com)**
+
+<br/>
 
 ## 🎓 Education
 
-#### 1. [Politeknik Negeri Semarang](https://web.polines.ac.id/en_us/) | College Student of Computer Engineering Technology | Semarang `2022 - Present`
-- Associate/Bachelor Degree in Computer Engineering Technology, **GPA: 3.59/4.00**
+<table>
+<tr>
+<td width="60">🎓</td>
+<td>
 
-#### 2. [SMKN 7 Semarang](https://smkn7semarang.sch.id/) | SIJA (Sistem Informatika, Jaringan, dan Aplikasi) | Semarang `2018 - 2022`
-- Graduated in 2022
+**[Politeknik Negeri Semarang](https://web.polines.ac.id/en_us/)** — Computer Engineering Technology
+`2022 - Present` · GPA **3.59 / 4.00**
 
-#### 3. [SMPN 19 Semarang](https://www.smpn19.semarangkota.go.id/) | Semarang `2015 - 2018`
-- Graduated from Junior High School in 2018
+</td>
+</tr>
+<tr>
+<td width="60">🏫</td>
+<td>
 
----
+**[SMKN 7 Semarang](https://smkn7semarang.sch.id/)** — Sistem Informatika, Jaringan, dan Aplikasi (SIJA)
+`2018 - 2022` · Graduated
 
-## 🛠️ Languages and Tools
+</td>
+</tr>
+<tr>
+<td width="60">📚</td>
+<td>
+
+**SMPN 19 Semarang**
+`2015 - 2018` · Graduated
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,php,mysql,python,dart,java,git,github,vscode&theme=dark" />
 </p>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/dimasim">
-    <img src="https://github-readme-stats.vercel.app/api?username=dimasim&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Dimas's GitHub Stats" height="180px" />
-  </a>
-  <a href="https://github.com/dimasim">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasim&layout=compact&theme=dark" alt="Top Languages" height="180px" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dimasim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Dimas's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasim&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dimasim&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<br/>
 
 ## 🤝 Connect with Me
 
@@ -59,7 +100,17 @@
   <a href="https://www.linkedin.com/in/dimas-irsyad-maulana-b551361a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://youtube.com/@YOUR_YOUTUBE_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+  <a href="mailto:officialdimasim@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=dimasim&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
+
+</div>
