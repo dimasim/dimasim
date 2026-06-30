@@ -77,17 +77,14 @@ fun_fact: I debug with print() and I'm not ashamed
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimasim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Dimas's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasim&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dimasim&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://raw.githubusercontent.com/dimasim/dimasim/main/github-metrics.svg" alt="Dimas's GitHub Metrics"/>
 </p>
+
+> Kartu di atas digenerate sendiri lewat GitHub Actions (`lowlighter/metrics`), jadi tidak gantung ke server publik Vercel yang sering down/kena rate limit.
 
 <br/>
 
