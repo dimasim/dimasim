@@ -87,12 +87,6 @@ fun_fact: I debug with print() and I'm not ashamed
 </p>
 
 <p align="center">
-  <a href="https://github.com/dimasim">
-    <img src="https://github-profile-trophy.vercel.app/?username=dimasim&theme=tokyonight&no-bg=true&margin-w=15" alt="Dimas's Trophies" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasim&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
