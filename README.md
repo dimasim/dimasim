@@ -24,7 +24,7 @@ fun_fact: I debug with print() and I'm not ashamed
 ```
 
 - 🔭 Currently studying **Computer Engineering Technology** at **Politeknik Negeri Semarang**
-- 🌱 Currently leveling up in **C++, C#, PHP, MySQL, Python & Dart**
++- 🌱 Currently leveling up in **C++, C#, PHP, MySQL, Python & Dart**
 - 👯 Open to collaborate on **Web Development** projects
 - 🤝 Actively seeking an **ICT Internship Partner**
 - 💬 Ask me about anything — web dev, electronics, or college life
@@ -75,6 +75,16 @@ fun_fact: I debug with print() and I'm not ashamed
 <br/>
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <!-- GANTI 'YOUR_VERCEL_APP_URL' dengan URL Vercel hasil deploy github-readme-stats Anda -->
+  <a href="https://github.com/dimasim">
+    <img src="https://YOUR_VERCEL_APP_URL.vercel.app/api?username=dimasim&show_icons=true&theme=tokyonight&hide_border=true" alt="Dimas's GitHub Stats" />
+  </a>
+  <a href="https://github.com/dimasim">
+    <img src="https://YOUR_VERCEL_APP_URL.vercel.app/api/top-langs/?username=dimasim&layout=compact&theme=tokyonight&hide_border=true" alt="Dimas's Top Languages" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasim&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
