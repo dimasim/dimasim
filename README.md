@@ -87,14 +87,19 @@ fun_fact: I debug with print() and I'm not ashamed
 </p>
 
 <p align="center">
+  <a href="https://github.com/dimasim">
+    <img src="https://github-profile-trophy.vercel.app/?username=dimasim&theme=tokyonight&no-bg=true&margin-w=15" alt="Dimas's Trophies" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasim&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dimasim/dimasim/main/github-metrics.svg" alt="Dimas's GitHub Metrics"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimasim&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="Activity Graph" />
 </p>
 
-> Kartu di atas digenerate sendiri lewat GitHub Actions (`lowlighter/metrics`), jadi tidak gantung ke server publik Vercel yang sering down/kena rate limit.
 
 <br/>
 
