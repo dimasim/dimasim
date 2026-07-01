@@ -79,10 +79,10 @@ fun_fact: I debug with print() and I'm not ashamed
 <p align="center">
   <!-- GANTI 'YOUR_VERCEL_APP_URL' dengan URL Vercel hasil deploy github-readme-stats Anda -->
   <a href="https://github.com/dimasim">
-    <img src="https://YOUR_VERCEL_APP_URL.vercel.app/api?username=dimasim&show_icons=true&theme=tokyonight&hide_border=true" alt="Dimas's GitHub Stats" />
+    <img src="https://github-readme-stats-six-beta-49.vercel.app/api?username=dimasim&show_icons=true&theme=tokyonight&hide_border=true" alt="Dimas's GitHub Stats" />
   </a>
   <a href="https://github.com/dimasim">
-    <img src="https://YOUR_VERCEL_APP_URL.vercel.app/api/top-langs/?username=dimasim&layout=compact&theme=tokyonight&hide_border=true" alt="Dimas's Top Languages" />
+    <img src="https://github-readme-stats-six-beta-49.vercel.app/api/top-langs/?username=dimasim&layout=compact&theme=tokyonight&hide_border=true" alt="Dimas's Top Languages" />
   </a>
 </p>
 
